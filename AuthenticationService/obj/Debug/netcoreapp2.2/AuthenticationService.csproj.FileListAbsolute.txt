@@ -1,0 +1,16 @@
+D:\Test\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Test\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Test\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Test\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.AssemblyInfoInputs.cache
+D:\Test\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.AssemblyInfo.cs
+D:\Test\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.deps.json
+D:\Test\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.runtimeconfig.json
+D:\Test\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.runtimeconfig.dev.json
+D:\Test\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.dll
+D:\Test\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.csprojAssemblyReference.cache
+D:\Test\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorAssemblyInfo.cache
+D:\Test\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorAssemblyInfo.cs
+D:\Test\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.RazorTargetAssemblyInfo.cache
+D:\Test\AuthenticationService\AuthenticationService\bin\Debug\netcoreapp2.2\AuthenticationService.pdb
+D:\Test\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.dll
+D:\Test\AuthenticationService\AuthenticationService\obj\Debug\netcoreapp2.2\AuthenticationService.pdb
